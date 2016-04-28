@@ -1,0 +1,33 @@
+Content\Acciones\Caminar.xnb
+Content\Acciones\Espera.xnb
+Content\Acciones\Agachar.xnb
+Content\Acciones\Herir.xnb
+Content\Acciones\Saltar.xnb
+Content\Acciones\Backflip.xnb
+Content\Acciones\Atacar.xnb
+Content\Acciones\Crush.xnb
+Content\Acciones\CAttack.xnb
+Content\Acciones\CrouchAttack.xnb
+Content\Acciones\Die.xnb
+Content\Acciones\ItemThrow.xnb
+Content\Acciones\SimAtk.xnb
+Content\Acciones\Stand.xnb
+Content\Pointer\death.xnb
+Content\Health Bar\Health.xnb
+Content\Health Bar\LifeBar.xnb
+Content\Rectangles\RectangleHit.xnb
+Content\Rectangles\RectangleStand.xnb
+Content\Rectangles\Platform.xnb
+Content\Rectangles\RectangleDeath.xnb
+Content\Instructions.xnb
+Content\fuente.xnb
+Content\Rectangles\Rectanglemictlantecuhtli.xnb
+Content\Acciones\Mictlantecuhtli.xnb
+Content\Acciones\MictlantecuhtliEnfado.xnb
+Content\Acciones\MicltanzLanar.xnb
+Content\Rectangles\RectangleWhip.xnb
+Content\Rectangles\RectangleZombie.xnb
+Content\Acciones\zombieDer.xnb
+Content\Acciones\zombieIzq.xnb
+Content\Acciones\cierra.xnb
+Content\Rectangles\RectangleCierra.xnb

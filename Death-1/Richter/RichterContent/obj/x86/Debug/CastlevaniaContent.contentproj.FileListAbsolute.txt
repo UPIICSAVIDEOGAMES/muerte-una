@@ -1,0 +1,4 @@
+D:\Mis documentos Rk\Archivos escuela\Castlevania\Castlevania\Castlevania\CastlevaniaContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Richard K Rivero\Documents\Archivos de Escuela\Castlevania\Castlevania\Castlevania\CastlevaniaContent\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Escuela\Expo Compiladores\Castlevania\Castlevania\Castlevania\CastlevaniaContent\obj\x86\Debug\CastlevaniaContent.contentprojResolveAssemblyReference.cache
+C:\Users\rk_ri_000\Documents\Escuela\VideoGames\Castlevania\Castlevania\Castlevania\CastlevaniaContent\obj\x86\Debug\CastlevaniaContent.contentprojResolveAssemblyReference.cache

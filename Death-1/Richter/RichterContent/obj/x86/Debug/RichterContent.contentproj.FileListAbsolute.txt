@@ -1,0 +1,7 @@
+C:\Users\Richard K Rivero\Desktop\Richter\Richter\RichterContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\rk_ri_000\Documents\Escuela\VideoGames\Richter\Richter\RichterContent\obj\x86\Debug\RichterContent.contentprojResolveAssemblyReference.cache
+H:\XNA\Richter\Richter\RichterContent\obj\x86\Debug\RichterContent.contentprojResolveAssemblyReference.cache
+F:\XNA\Richter\Richter\RichterContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Vale\Desktop\Richter\Richter\RichterContent\obj\x86\Debug\RichterContent.contentprojResolveAssemblyReference.cache
+C:\Users\Vale\Desktop\Death\Richter\RichterContent\obj\x86\Debug\RichterContent.contentprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Death-1\Richter\RichterContent\obj\x86\Debug\ResolveAssemblyReference.cache

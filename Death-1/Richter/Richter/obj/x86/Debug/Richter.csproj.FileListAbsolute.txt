@@ -1,0 +1,179 @@
+C:\Users\Richard K Rivero\Desktop\Richter\Richter\Richter\bin\x86\Debug\Richter.exe
+C:\Users\Richard K Rivero\Desktop\Richter\Richter\Richter\bin\x86\Debug\Richter.pdb
+C:\Users\Richard K Rivero\Desktop\Richter\Richter\Richter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Richard K Rivero\Desktop\Richter\Richter\Richter\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Richard K Rivero\Desktop\Richter\Richter\Richter\obj\x86\Debug\Richter.exe
+C:\Users\Richard K Rivero\Desktop\Richter\Richter\Richter\obj\x86\Debug\Richter.pdb
+C:\Users\Richard K Rivero\Desktop\Richter\Richter\Richter\bin\x86\Debug\Content\Acciones\Caminar.xnb
+C:\Users\Richard K Rivero\Desktop\Richter\Richter\Richter\bin\x86\Debug\Content\Acciones\Espera.xnb
+C:\Users\Richard K Rivero\Desktop\Richter\Richter\Richter\bin\x86\Debug\Content\Acciones\Agachar.xnb
+C:\Users\Richard K Rivero\Desktop\Richter\Richter\Richter\bin\x86\Debug\Content\Acciones\Herir.xnb
+C:\Users\Richard K Rivero\Desktop\Richter\Richter\Richter\bin\x86\Debug\Content\Acciones\Saltar.xnb
+C:\Users\rk_ri_000\Documents\Escuela\VideoGames\Richter\Richter\Richter\bin\x86\Debug\Content\Acciones\Caminar.xnb
+C:\Users\rk_ri_000\Documents\Escuela\VideoGames\Richter\Richter\Richter\bin\x86\Debug\Content\Acciones\Espera.xnb
+C:\Users\rk_ri_000\Documents\Escuela\VideoGames\Richter\Richter\Richter\bin\x86\Debug\Content\Acciones\Agachar.xnb
+C:\Users\rk_ri_000\Documents\Escuela\VideoGames\Richter\Richter\Richter\bin\x86\Debug\Content\Acciones\Herir.xnb
+C:\Users\rk_ri_000\Documents\Escuela\VideoGames\Richter\Richter\Richter\bin\x86\Debug\Content\Acciones\Saltar.xnb
+C:\Users\rk_ri_000\Documents\Escuela\VideoGames\Richter\Richter\Richter\bin\x86\Debug\Richter.exe
+C:\Users\rk_ri_000\Documents\Escuela\VideoGames\Richter\Richter\Richter\bin\x86\Debug\Richter.pdb
+C:\Users\rk_ri_000\Documents\Escuela\VideoGames\Richter\Richter\Richter\obj\x86\Debug\Richter.csprojResolveAssemblyReference.cache
+C:\Users\rk_ri_000\Documents\Escuela\VideoGames\Richter\Richter\Richter\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\rk_ri_000\Documents\Escuela\VideoGames\Richter\Richter\Richter\obj\x86\Debug\Richter.exe
+C:\Users\rk_ri_000\Documents\Escuela\VideoGames\Richter\Richter\Richter\obj\x86\Debug\Richter.pdb
+C:\Users\rk_ri_000\Documents\Escuela\VideoGames\Richter\Richter\Richter\bin\x86\Debug\Content\Acciones\Backflip.xnb
+C:\Users\rk_ri_000\Documents\Escuela\VideoGames\Richter\Richter\Richter\bin\x86\Debug\Content\Acciones\Atacar.xnb
+C:\Users\rk_ri_000\Documents\Escuela\VideoGames\Richter\Richter\Richter\bin\x86\Debug\Content\Acciones\Crush.xnb
+C:\Users\rk_ri_000\Documents\Escuela\VideoGames\Richter\Richter\Richter\bin\x86\Debug\Content\Acciones\CAttack.xnb
+C:\Users\rk_ri_000\Documents\Escuela\VideoGames\Richter\Richter\Richter\bin\x86\Debug\Content\Acciones\CrouchAttack.xnb
+C:\Users\rk_ri_000\Documents\Escuela\VideoGames\Richter\Richter\Richter\bin\x86\Debug\Content\Acciones\Die.xnb
+C:\Users\rk_ri_000\Documents\Escuela\VideoGames\Richter\Richter\Richter\bin\x86\Debug\Content\Acciones\ItemThrow.xnb
+C:\Users\rk_ri_000\Documents\Escuela\VideoGames\Richter\Richter\Richter\bin\x86\Debug\Content\Acciones\Stand.xnb
+C:\Users\rk_ri_000\Documents\Escuela\VideoGames\Richter\Richter\Richter\bin\x86\Debug\Content\Acciones\SimAtk.xnb
+C:\Users\rk_ri_000\Documents\Escuela\VideoGames\Richter\Richter\Richter\bin\x86\Debug\Content\Instructions.xnb
+C:\Users\rk_ri_000\Documents\Escuela\VideoGames\Richter\Richter\Richter\bin\x86\Debug\Content\Pointer\death.xnb
+H:\XNA\Richter\Richter\Richter\obj\x86\Debug\Richter.exe
+H:\XNA\Richter\Richter\Richter\obj\x86\Debug\Richter.pdb
+H:\XNA\Richter\Richter\Richter\bin\x86\Debug\Content\Acciones\Caminar.xnb
+H:\XNA\Richter\Richter\Richter\bin\x86\Debug\Content\Acciones\Espera.xnb
+H:\XNA\Richter\Richter\Richter\bin\x86\Debug\Content\Acciones\Agachar.xnb
+H:\XNA\Richter\Richter\Richter\bin\x86\Debug\Content\Acciones\Herir.xnb
+H:\XNA\Richter\Richter\Richter\bin\x86\Debug\Content\Acciones\Saltar.xnb
+H:\XNA\Richter\Richter\Richter\bin\x86\Debug\Content\Acciones\Backflip.xnb
+H:\XNA\Richter\Richter\Richter\bin\x86\Debug\Content\Acciones\Atacar.xnb
+H:\XNA\Richter\Richter\Richter\bin\x86\Debug\Content\Acciones\Crush.xnb
+H:\XNA\Richter\Richter\Richter\bin\x86\Debug\Content\Acciones\CAttack.xnb
+H:\XNA\Richter\Richter\Richter\bin\x86\Debug\Content\Acciones\CrouchAttack.xnb
+H:\XNA\Richter\Richter\Richter\bin\x86\Debug\Content\Acciones\Die.xnb
+H:\XNA\Richter\Richter\Richter\bin\x86\Debug\Content\Acciones\ItemThrow.xnb
+H:\XNA\Richter\Richter\Richter\bin\x86\Debug\Content\Acciones\SimAtk.xnb
+H:\XNA\Richter\Richter\Richter\bin\x86\Debug\Content\Acciones\Stand.xnb
+H:\XNA\Richter\Richter\Richter\bin\x86\Debug\Content\Pointer\death.xnb
+H:\XNA\Richter\Richter\Richter\bin\x86\Debug\Content\Instructions.xnb
+H:\XNA\Richter\Richter\Richter\bin\x86\Debug\Richter.exe
+H:\XNA\Richter\Richter\Richter\bin\x86\Debug\Richter.pdb
+H:\XNA\Richter\Richter\Richter\obj\x86\Debug\Richter.csprojResolveAssemblyReference.cache
+H:\XNA\Richter\Richter\Richter\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\XNA\Richter\Richter\Richter\bin\x86\Debug\Content\Acciones\Caminar.xnb
+F:\XNA\Richter\Richter\Richter\bin\x86\Debug\Content\Acciones\Espera.xnb
+F:\XNA\Richter\Richter\Richter\bin\x86\Debug\Content\Acciones\Agachar.xnb
+F:\XNA\Richter\Richter\Richter\bin\x86\Debug\Content\Acciones\Herir.xnb
+F:\XNA\Richter\Richter\Richter\bin\x86\Debug\Content\Acciones\Saltar.xnb
+F:\XNA\Richter\Richter\Richter\bin\x86\Debug\Content\Acciones\Backflip.xnb
+F:\XNA\Richter\Richter\Richter\bin\x86\Debug\Content\Acciones\Atacar.xnb
+F:\XNA\Richter\Richter\Richter\bin\x86\Debug\Content\Acciones\Crush.xnb
+F:\XNA\Richter\Richter\Richter\bin\x86\Debug\Content\Acciones\CAttack.xnb
+F:\XNA\Richter\Richter\Richter\bin\x86\Debug\Content\Acciones\CrouchAttack.xnb
+F:\XNA\Richter\Richter\Richter\bin\x86\Debug\Content\Acciones\Die.xnb
+F:\XNA\Richter\Richter\Richter\bin\x86\Debug\Content\Acciones\ItemThrow.xnb
+F:\XNA\Richter\Richter\Richter\bin\x86\Debug\Content\Acciones\SimAtk.xnb
+F:\XNA\Richter\Richter\Richter\bin\x86\Debug\Content\Acciones\Stand.xnb
+F:\XNA\Richter\Richter\Richter\bin\x86\Debug\Content\Pointer\death.xnb
+F:\XNA\Richter\Richter\Richter\bin\x86\Debug\Content\Instructions.xnb
+F:\XNA\Richter\Richter\Richter\bin\x86\Debug\Richter.exe
+F:\XNA\Richter\Richter\Richter\bin\x86\Debug\Richter.pdb
+F:\XNA\Richter\Richter\Richter\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\XNA\Richter\Richter\Richter\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\XNA\Richter\Richter\Richter\obj\x86\Debug\Richter.exe
+F:\XNA\Richter\Richter\Richter\obj\x86\Debug\Richter.pdb
+F:\XNA\Richter\Richter\Richter\bin\x86\Debug\Content\Health Bar\Health.xnb
+F:\XNA\Richter\Richter\Richter\bin\x86\Debug\Content\Health Bar\LifeBar.xnb
+F:\XNA\Richter\Richter\Richter\bin\x86\Debug\Content\Rectangles\RectangleHit.xnb
+F:\XNA\Richter\Richter\Richter\bin\x86\Debug\Content\Rectangles\RectangleStand.xnb
+F:\XNA\Richter\Richter\Richter\bin\x86\Debug\Content\Rectangles\Platform.xnb
+C:\Users\Vale\Desktop\Richter\Richter\Richter\bin\x86\Debug\Content\Acciones\Caminar.xnb
+C:\Users\Vale\Desktop\Richter\Richter\Richter\bin\x86\Debug\Content\Acciones\Espera.xnb
+C:\Users\Vale\Desktop\Richter\Richter\Richter\bin\x86\Debug\Content\Acciones\Agachar.xnb
+C:\Users\Vale\Desktop\Richter\Richter\Richter\bin\x86\Debug\Content\Acciones\Herir.xnb
+C:\Users\Vale\Desktop\Richter\Richter\Richter\bin\x86\Debug\Content\Acciones\Saltar.xnb
+C:\Users\Vale\Desktop\Richter\Richter\Richter\bin\x86\Debug\Content\Acciones\Backflip.xnb
+C:\Users\Vale\Desktop\Richter\Richter\Richter\bin\x86\Debug\Content\Acciones\Atacar.xnb
+C:\Users\Vale\Desktop\Richter\Richter\Richter\bin\x86\Debug\Content\Acciones\Crush.xnb
+C:\Users\Vale\Desktop\Richter\Richter\Richter\bin\x86\Debug\Content\Acciones\CAttack.xnb
+C:\Users\Vale\Desktop\Richter\Richter\Richter\bin\x86\Debug\Content\Acciones\CrouchAttack.xnb
+C:\Users\Vale\Desktop\Richter\Richter\Richter\bin\x86\Debug\Content\Acciones\Die.xnb
+C:\Users\Vale\Desktop\Richter\Richter\Richter\bin\x86\Debug\Content\Acciones\ItemThrow.xnb
+C:\Users\Vale\Desktop\Richter\Richter\Richter\bin\x86\Debug\Content\Acciones\SimAtk.xnb
+C:\Users\Vale\Desktop\Richter\Richter\Richter\bin\x86\Debug\Content\Acciones\Stand.xnb
+C:\Users\Vale\Desktop\Richter\Richter\Richter\bin\x86\Debug\Content\Pointer\death.xnb
+C:\Users\Vale\Desktop\Richter\Richter\Richter\bin\x86\Debug\Content\Health Bar\Health.xnb
+C:\Users\Vale\Desktop\Richter\Richter\Richter\bin\x86\Debug\Content\Health Bar\LifeBar.xnb
+C:\Users\Vale\Desktop\Richter\Richter\Richter\bin\x86\Debug\Content\Rectangles\RectangleHit.xnb
+C:\Users\Vale\Desktop\Richter\Richter\Richter\bin\x86\Debug\Content\Rectangles\RectangleStand.xnb
+C:\Users\Vale\Desktop\Richter\Richter\Richter\bin\x86\Debug\Content\Rectangles\Platform.xnb
+C:\Users\Vale\Desktop\Richter\Richter\Richter\bin\x86\Debug\Content\Rectangles\RectangleDeath.xnb
+C:\Users\Vale\Desktop\Richter\Richter\Richter\bin\x86\Debug\Content\Instructions.xnb
+C:\Users\Vale\Desktop\Richter\Richter\Richter\bin\x86\Debug\Content\fuente.xnb
+C:\Users\Vale\Desktop\Richter\Richter\Richter\bin\x86\Debug\Richter.exe
+C:\Users\Vale\Desktop\Richter\Richter\Richter\bin\x86\Debug\Richter.pdb
+C:\Users\Vale\Desktop\Richter\Richter\Richter\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Vale\Desktop\Richter\Richter\Richter\obj\x86\Debug\Richter.exe
+C:\Users\Vale\Desktop\Richter\Richter\Richter\obj\x86\Debug\Richter.pdb
+C:\Users\Vale\Desktop\Richter\Richter\Richter\obj\x86\Debug\Richter.csprojResolveAssemblyReference.cache
+C:\Users\Vale\Desktop\Death\Richter\Richter\bin\x86\Debug\Content\Acciones\Caminar.xnb
+C:\Users\Vale\Desktop\Death\Richter\Richter\bin\x86\Debug\Content\Acciones\Espera.xnb
+C:\Users\Vale\Desktop\Death\Richter\Richter\bin\x86\Debug\Content\Acciones\Agachar.xnb
+C:\Users\Vale\Desktop\Death\Richter\Richter\bin\x86\Debug\Content\Acciones\Herir.xnb
+C:\Users\Vale\Desktop\Death\Richter\Richter\bin\x86\Debug\Content\Acciones\Saltar.xnb
+C:\Users\Vale\Desktop\Death\Richter\Richter\bin\x86\Debug\Content\Acciones\Backflip.xnb
+C:\Users\Vale\Desktop\Death\Richter\Richter\bin\x86\Debug\Content\Acciones\Atacar.xnb
+C:\Users\Vale\Desktop\Death\Richter\Richter\bin\x86\Debug\Content\Acciones\Crush.xnb
+C:\Users\Vale\Desktop\Death\Richter\Richter\bin\x86\Debug\Content\Acciones\CAttack.xnb
+C:\Users\Vale\Desktop\Death\Richter\Richter\bin\x86\Debug\Content\Acciones\CrouchAttack.xnb
+C:\Users\Vale\Desktop\Death\Richter\Richter\bin\x86\Debug\Content\Acciones\Die.xnb
+C:\Users\Vale\Desktop\Death\Richter\Richter\bin\x86\Debug\Content\Acciones\ItemThrow.xnb
+C:\Users\Vale\Desktop\Death\Richter\Richter\bin\x86\Debug\Content\Acciones\SimAtk.xnb
+C:\Users\Vale\Desktop\Death\Richter\Richter\bin\x86\Debug\Content\Acciones\Stand.xnb
+C:\Users\Vale\Desktop\Death\Richter\Richter\bin\x86\Debug\Content\Pointer\death.xnb
+C:\Users\Vale\Desktop\Death\Richter\Richter\bin\x86\Debug\Content\Health Bar\Health.xnb
+C:\Users\Vale\Desktop\Death\Richter\Richter\bin\x86\Debug\Content\Health Bar\LifeBar.xnb
+C:\Users\Vale\Desktop\Death\Richter\Richter\bin\x86\Debug\Content\Rectangles\RectangleHit.xnb
+C:\Users\Vale\Desktop\Death\Richter\Richter\bin\x86\Debug\Content\Rectangles\RectangleStand.xnb
+C:\Users\Vale\Desktop\Death\Richter\Richter\bin\x86\Debug\Content\Rectangles\Platform.xnb
+C:\Users\Vale\Desktop\Death\Richter\Richter\bin\x86\Debug\Content\Rectangles\RectangleDeath.xnb
+C:\Users\Vale\Desktop\Death\Richter\Richter\bin\x86\Debug\Content\Instructions.xnb
+C:\Users\Vale\Desktop\Death\Richter\Richter\bin\x86\Debug\Content\fuente.xnb
+C:\Users\Vale\Desktop\Death\Richter\Richter\bin\x86\Debug\Richter.exe
+C:\Users\Vale\Desktop\Death\Richter\Richter\bin\x86\Debug\Richter.pdb
+C:\Users\Vale\Desktop\Death\Richter\Richter\obj\x86\Debug\Richter.csprojResolveAssemblyReference.cache
+C:\Users\Vale\Desktop\Death\Richter\Richter\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Vale\Desktop\Death\Richter\Richter\obj\x86\Debug\Richter.exe
+C:\Users\Vale\Desktop\Death\Richter\Richter\obj\x86\Debug\Richter.pdb
+\\psf\Home\Documents\Death-1\Richter\Richter\bin\x86\Debug\Content\Acciones\Caminar.xnb
+\\psf\Home\Documents\Death-1\Richter\Richter\bin\x86\Debug\Content\Acciones\Espera.xnb
+\\psf\Home\Documents\Death-1\Richter\Richter\bin\x86\Debug\Content\Acciones\Agachar.xnb
+\\psf\Home\Documents\Death-1\Richter\Richter\bin\x86\Debug\Content\Acciones\Herir.xnb
+\\psf\Home\Documents\Death-1\Richter\Richter\bin\x86\Debug\Content\Acciones\Saltar.xnb
+\\psf\Home\Documents\Death-1\Richter\Richter\bin\x86\Debug\Content\Acciones\Backflip.xnb
+\\psf\Home\Documents\Death-1\Richter\Richter\bin\x86\Debug\Content\Acciones\Atacar.xnb
+\\psf\Home\Documents\Death-1\Richter\Richter\bin\x86\Debug\Content\Acciones\Crush.xnb
+\\psf\Home\Documents\Death-1\Richter\Richter\bin\x86\Debug\Content\Acciones\CAttack.xnb
+\\psf\Home\Documents\Death-1\Richter\Richter\bin\x86\Debug\Content\Acciones\CrouchAttack.xnb
+\\psf\Home\Documents\Death-1\Richter\Richter\bin\x86\Debug\Content\Acciones\Die.xnb
+\\psf\Home\Documents\Death-1\Richter\Richter\bin\x86\Debug\Content\Acciones\ItemThrow.xnb
+\\psf\Home\Documents\Death-1\Richter\Richter\bin\x86\Debug\Content\Acciones\SimAtk.xnb
+\\psf\Home\Documents\Death-1\Richter\Richter\bin\x86\Debug\Content\Acciones\Stand.xnb
+\\psf\Home\Documents\Death-1\Richter\Richter\bin\x86\Debug\Content\Pointer\death.xnb
+\\psf\Home\Documents\Death-1\Richter\Richter\bin\x86\Debug\Content\Health Bar\Health.xnb
+\\psf\Home\Documents\Death-1\Richter\Richter\bin\x86\Debug\Content\Health Bar\LifeBar.xnb
+\\psf\Home\Documents\Death-1\Richter\Richter\bin\x86\Debug\Content\Rectangles\RectangleHit.xnb
+\\psf\Home\Documents\Death-1\Richter\Richter\bin\x86\Debug\Content\Rectangles\RectangleStand.xnb
+\\psf\Home\Documents\Death-1\Richter\Richter\bin\x86\Debug\Content\Rectangles\Platform.xnb
+\\psf\Home\Documents\Death-1\Richter\Richter\bin\x86\Debug\Content\Rectangles\RectangleDeath.xnb
+\\psf\Home\Documents\Death-1\Richter\Richter\bin\x86\Debug\Content\Instructions.xnb
+\\psf\Home\Documents\Death-1\Richter\Richter\bin\x86\Debug\Content\fuente.xnb
+\\psf\Home\Documents\Death-1\Richter\Richter\bin\x86\Debug\Richter.exe
+\\psf\Home\Documents\Death-1\Richter\Richter\bin\x86\Debug\Richter.pdb
+\\psf\Home\Documents\Death-1\Richter\Richter\obj\x86\Debug\ResolveAssemblyReference.cache
+\\psf\Home\Documents\Death-1\Richter\Richter\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\psf\Home\Documents\Death-1\Richter\Richter\obj\x86\Debug\Richter.exe
+\\psf\Home\Documents\Death-1\Richter\Richter\obj\x86\Debug\Richter.pdb
+\\psf\Home\Documents\Death-1\Richter\Richter\bin\x86\Debug\Content\Rectangles\Rectanglemictlantecuhtli.xnb
+\\psf\Home\Documents\Death-1\Richter\Richter\bin\x86\Debug\Content\Acciones\Mictlantecuhtli.xnb
+\\psf\Home\Documents\Death-1\Richter\Richter\bin\x86\Debug\Content\Acciones\MictlantecuhtliEnfado.xnb
+\\psf\Home\Documents\Death-1\Richter\Richter\bin\x86\Debug\Content\Acciones\MicltanzLanar.xnb
+\\psf\Home\Documents\Death-1\Richter\Richter\bin\x86\Debug\Content\Rectangles\RectangleWhip.xnb
+\\psf\Home\Documents\Death-1\Richter\Richter\bin\x86\Debug\Content\Rectangles\RectangleZombie.xnb
+\\psf\Home\Documents\Death-1\Richter\Richter\bin\x86\Debug\Content\Acciones\zombieDer.xnb
+\\psf\Home\Documents\Death-1\Richter\Richter\bin\x86\Debug\Content\Acciones\zombieIzq.xnb
+\\psf\Home\Documents\Death-1\Richter\Richter\bin\x86\Debug\Content\Acciones\cierra.xnb
+\\psf\Home\Documents\Death-1\Richter\Richter\bin\x86\Debug\Content\Rectangles\RectangleCierra.xnb
